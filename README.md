@@ -1,2 +1,2 @@
-# FB-Hack
+# FB Hack
 Facebook Women@EMEA Hack 2021
