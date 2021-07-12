@@ -6,9 +6,11 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) throws IOException {
+        String packagePath = "src/xenoteo/com/github/zigzag/easy/";
+
         // in initialisation
         String inputFileName = "input.txt";
-        Scanner in = new Scanner(new File("src/xenoteo/com/github/zigzag/easy/" + inputFileName));
+        Scanner in = new Scanner(new File(packagePath + inputFileName));
 
         int testCasesNumber = in.nextInt();
         int totalSum = 0;
@@ -28,13 +30,13 @@ public class Solution {
                 }
             }
 
-            // counting the sum
+            // counting the sum of the first 3 rows of all grids
             totalSum += solveAndFind3FirstRowsSum(grid);
         }
 
         // out initialisation and writing output
         String outputFileName = "output.txt";
-        FileWriter output = new FileWriter("src/xenoteo/com/github/zigzag/easy/" + outputFileName);
+        FileWriter output = new FileWriter(packagePath + outputFileName);
         output.write(totalSum + "");
         output.close();
     }

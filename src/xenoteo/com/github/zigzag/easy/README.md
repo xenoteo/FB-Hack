@@ -18,6 +18,7 @@ similarly:
 ![zigzags](../zigzags.png)
 
 Note that Zigs and Zags wrap around the grid, so each label appears twice in these diagrams.
+
 Given a list of unfinished ZigZags, provide the sum of all numbers in the top three rows of
 every grid, after the puzzles have been solved.
 
