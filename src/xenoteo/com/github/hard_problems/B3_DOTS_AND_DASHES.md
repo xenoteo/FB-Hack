@@ -1,4 +1,6 @@
 # Problem B3: Dots and Dashes - Hard
+*40 points*
+
 ## Problem
 Dots and Dashes is a text encoding, similar to (but not the same as!) 
 [other formats](https://www.wikiwand.com/en/Morse_code?fbclid=IwAR00ouzkvS2ParkYQzaDgWwCH7JjBpBjHpqotcNOezhRyXzjOC7hHkoFH1I)
