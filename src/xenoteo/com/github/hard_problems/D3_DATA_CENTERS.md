@@ -30,10 +30,10 @@ The input will contain two integers (*N* *Q*). *N* represents the number of Data
  the number of possible network outages that can happen.
 
 ## Constraints
-1 ≤ *N* ≤ 4 ∗ 10<sup>5</sup>
-1 ≤ *Q* ≤ 4 ∗ 10<sup>5</sup>
-1 ≤ *X<sub>i</sub>*,*Y<sub>i</sub>* ≤ 3 ∗ 10<sup>5</sup>
-1 ≤ *x*, *y*, *d* ≤ 3 ∗ 10<sup>5</sup>
+1 ≤ *N* ≤ 4 ∗ 10<sup>5</sup>  
+1 ≤ *Q* ≤ 4 ∗ 10<sup>5</sup>  
+1 ≤ *X<sub>i</sub>*,*Y<sub>i</sub>* ≤ 3 ∗ 10<sup>5</sup>  
+1 ≤ *x*, *y*, *d* ≤ 3 ∗ 10<sup>5</sup>  
 
 ## Output Format
 For each of *Q* queries, output one integer on a new line which denotes the number of Data Centers that will be affected
