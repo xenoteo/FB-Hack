@@ -56,4 +56,4 @@ Server 5 can divide up its capacity and send 2 revisions to Server 1 and 4 revis
 stage (Server 1 and 6) are at full capacity and cannot process any more revision from Server 0. The remaining stages can
 process more than 6 revisions so the second stage is the bottleneck which has a capacity of 6.
 
-![pipelines](c3.png)
+![pipelines](img/c3.png)
