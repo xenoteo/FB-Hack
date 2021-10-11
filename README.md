@@ -3,10 +3,10 @@ Facebook [Women@EMEA Hack 2021](https://www.facebook.com/codingcompetitions/fb-h
 
 ## Short intro
 For all solved problems there are provided:
-- the solution class
-- the readme file describing the problem
-- the file with input data
-- the file with output data got after the program run
+- the *solution* class
+- the *readme* file describing the problem
+- the file with *input* data
+- the file with *output* data got after the program run
 
 ## Problems solved
 - [B1](src/xenoteo/com/github/dots_and_dashes/easy): *Dots and Dashes* Easy
