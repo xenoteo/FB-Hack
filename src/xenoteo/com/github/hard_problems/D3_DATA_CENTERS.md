@@ -59,7 +59,7 @@ For each of *Q* queries, output one integer on a new line which denotes the numb
 There are 2 Data Centers and 2 triangle network outages.
 For the first outage trian(2, 5, 6), only the Data Center at (3, 7) is affected. So the output is 1.
 For the second outage (2, 3, 4), no Data Center is affected. So the output is 0.
-![data_centers](d3.webp)
+![data_centers](img/d3.webp)
 
 ### Sample Input
 ```
